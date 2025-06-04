@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template">
+    <kb_article_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer_ref display_value="Template de Artigo para Reservas UFPE">60ba12ebc3f5261062dbb01ed40131dd</answer_ref>
+        <article_template>Template de Artigo para Reservas UFPE</article_template>
+        <child_table>u_kb_template_template_de_artigo_para_reservas_ufpe</child_table>
+        <description>Como Solicitar a Reserva de Espaços da UFPE (Campus Recife)</description>
+        <meta_description_field/>
+        <sys_class_name>kb_article_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-04 04:54:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>ad9a9eabc3f5261062dbb01ed401318c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Template de Artigo para Reservas UFPE</sys_name>
+        <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+        <sys_update_name>kb_article_template_ad9a9eabc3f5261062dbb01ed401318c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-04 05:26:03</sys_updated_on>
+    </kb_article_template>
+</record_update>

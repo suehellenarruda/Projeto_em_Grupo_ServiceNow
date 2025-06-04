@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template_definition">
+    <kb_article_template_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article_template display_value="Template de Artigo para Reservas UFPE">ad9a9eabc3f5261062dbb01ed401318c</article_template>
+        <collapsible/>
+        <column_label>Passo a Passo da Reserva</column_label>
+        <column_type>string</column_type>
+        <field_style/>
+        <heading_style/>
+        <mandatory>true</mandatory>
+        <order/>
+        <preview_text><![CDATA[<hr />
+<h2>Como Fazer Sua Reserva no ServiceNow: Um Passo a Passo Simples</h2>
+<p>Reservar um espaço na UFPE, campus Recife, pelo ServiceNow é fácil! Siga este guia rápido para garantir seu agendamento sem complicações:</p>
+<ol style="list-style-position: inside;"><li>
+<p>Acesse o Portal de Serviços: Comece acessando o portal do ServiceNow da UFPE. Geralmente, você pode encontrá-lo no site da UFPE ou através de um link direto fornecido pela administração.</p>
+</li><li>
+<p>Encontre o Formulário de Reserva: No portal, procure por uma opção como &#34;Nova Reserva de Espaços&#34;, &#34;Agendamento de Ambientes&#34; ou algo similar. Pode estar no menu principal ou em uma seção de &#34;Serviços&#34;. Clique nela para abrir o formulário.</p>
+</li><li>
+<p>Preencha os Detalhes da Sua Reserva: Agora é hora de fornecer as informações necessárias:</p>
+<ul style="list-style-position: inside;"><li>Tipo de Espaço: Selecione o tipo de espaço que você precisa (ex: sala de aula, auditório, laboratório, etc.).</li><li>Data e Horário: Indique a data de início e data de término, bem como os horários de início e fim da sua reserva. Seja preciso para evitar conflitos.</li><li>Propósito do Evento: Descreva brevemente o motivo da sua reserva (ex: reunião de grupo, aula especial, apresentação de TCC, etc.).</li><li>Número de Participantes: Informe a quantidade estimada de pessoas que utilizarão o espaço. Isso ajuda a garantir que o espaço seja adequado.</li><li>Informações de Contato: Preencha seus dados para contato, como nome completo, matrícula/SIAPE e e-mail.</li></ul>
+</li><li>
+<p>Revise e Envie: Antes de finalizar, revise todas as informações que você preencheu. Certifique-se de que a data, horário e o espaço selecionado estão corretos. Se tudo estiver certo, clique no botão de &#34;Enviar&#34; ou &#34;Solicitar&#34; para submeter sua reserva.</p>
+</li><li>
+<p>Aguarde a Confirmação: Após enviar a solicitação, você receberá uma confirmação de que seu pedido foi recebido. Fique atento ao seu e-mail, pois a confirmação da reserva (ou qualquer solicitação de ajuste) será enviada por lá. Sua reserva só estará garantida após essa confirmação oficial.</p>
+</li></ol>
+<p>Pronto! Ao seguir esses passos, você conseguirá reservar o espaço desejado de forma eficiente e sem burocracia. Se tiver alguma dúvida durante o processo, não hesite em procurar o suporte técnico da UFPE.</p>]]></preview_text>
+        <sys_class_name>kb_article_template_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-04 05:01:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>753c9e2fc3f5261062dbb01ed401313c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Passo a Passo da Reserva</sys_name>
+        <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+        <sys_update_name>kb_article_template_definition_753c9e2fc3f5261062dbb01ed401313c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-04 05:24:50</sys_updated_on>
+        <table_column>x_1775943_ufpe_u_kb_passo_a_passo_da_reserva</table_column>
+    </kb_article_template_definition>
+</record_update>

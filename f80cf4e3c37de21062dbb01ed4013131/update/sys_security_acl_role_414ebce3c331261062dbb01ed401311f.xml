@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-03 22:10:39</sys_created_on>
+        <sys_id>414ebce3c331261062dbb01ed401311f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1775943_ufpe_espaco_ufpe.x_1775943_ufpe.espaco_ufpe_user</sys_name>
+        <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+        <sys_security_acl display_value="x_1775943_ufpe_espaco_ufpe">414ebce3c331261062dbb01ed401311b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_414ebce3c331261062dbb01ed401311f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-03 22:10:39</sys_updated_on>
+        <sys_user_role display_value="x_1775943_ufpe.espaco_ufpe_user" name="x_1775943_ufpe.espaco_ufpe_user">cd4e7cefc37de21062dbb01ed401319c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

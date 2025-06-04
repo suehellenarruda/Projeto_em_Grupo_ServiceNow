@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-03 22:58:01</sys_created_on>
+        <sys_id>831941a3c371261062dbb01ed401318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1775943_ufpe_solicitacao_de_reserva_ufpe.x_1775943_ufpe.solicitacao_de_reserva_ufpe_user</sys_name>
+        <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+        <sys_security_acl display_value="x_1775943_ufpe_solicitacao_de_reserva_ufpe">431941a3c371261062dbb01ed4013155</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_831941a3c371261062dbb01ed401318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-03 22:58:01</sys_updated_on>
+        <sys_user_role display_value="x_1775943_ufpe.solicitacao_de_reserva_ufpe_user" name="x_1775943_ufpe.solicitacao_de_reserva_ufpe_user">72190d63c371261062dbb01ed4013123</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</application>
+        <file_path/>
+        <instance_id>ce6f3df91bd2f110c8432f8dee4bcb8c</instance_id>
+        <instance_name>dev204418</instance_name>
+        <name>sys_security_acl_role_831941a3c371261062dbb01ed401318a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-03 22:58:01</sys_created_on><sys_id>831941a3c371261062dbb01ed401318a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1775943_ufpe_solicitacao_de_reserva_ufpe.x_1775943_ufpe.solicitacao_de_reserva_ufpe_user</sys_name><sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package><sys_policy/><sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope><sys_security_acl display_value="x_1775943_ufpe_solicitacao_de_reserva_ufpe">431941a3c371261062dbb01ed4013155</sys_security_acl><sys_update_name>sys_security_acl_role_831941a3c371261062dbb01ed401318a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-03 22:58:01</sys_updated_on><sys_user_role display_value="x_1775943_ufpe.solicitacao_de_reserva_ufpe_user" name="x_1775943_ufpe.solicitacao_de_reserva_ufpe_user">72190d63c371261062dbb01ed4013123</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1338477568</payload_hash>
+        <record_name>x_1775943_ufpe_solicitacao_de_reserva_ufpe.x_1775943_ufpe.solicitacao_de_reserva_ufpe_user</record_name>
+        <reverted_from/>
+        <source>3c0c7063c331261062dbb01ed4013141</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-03 22:58:01</sys_created_on>
+        <sys_id>0b1941a3c371261062dbb01ed401318d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197380416ec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-03 22:58:01</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>0f1941a328712610a2e2ed37b049e98c</update_guid>
+        <update_guid_history>0f1941a328712610a2e2ed37b049e98c:1338477568</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1775943_ufpe_solicitacao_de_reserva_ufpe.x_1775943_ufpe.solicitacao_de_reserva">e06909a3c371261062dbb01ed4013123</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-03 22:59:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>13549a5de9844245a216126930bbb7d9</sys_id>
+        <sys_metadata>831941a3c371261062dbb01ed401318a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1775943_ufpe_solicitacao_de_reserva_ufpe.x_1775943_ufpe.solicitacao_de_reserva_ufpe_user</sys_name>
+        <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+        <sys_parent display_value="">431941a3c371261062dbb01ed4013155</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+        <sys_scope_delete display_value="">01ac9e3503f2461da753bdfd695aa119</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_831941a3c371261062dbb01ed401318a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_831941a3c371261062dbb01ed401318a">0b1941a3c371261062dbb01ed401318d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-03 22:59:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

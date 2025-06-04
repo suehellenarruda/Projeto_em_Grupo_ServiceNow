@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="995d56afc3f5261062dbb01ed401312b" sys_domain="global" table="u_kb_template_template_de_artigo_para_reservas_ufpe" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge_gen_ai_message.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>155d56afc3f5261062dbb01ed401312e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Knowledge Gen AI Message">43fdbfbbc3b9b110d3ff8cab3c40dd97</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge_now_assist_modal.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>5d5d56afc3f5261062dbb01ed401312c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Knowledge Now Assist Modal">435fbe6283ec0e5039fd5defeeaad3fe</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>195d56afc3f5261062dbb01ed4013136</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>915d56afc3f5261062dbb01ed4013133</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_knowledge_base</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>515d56afc3f5261062dbb01ed4013144</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_category</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>1d5d56afc3f5261062dbb01ed401312f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>language</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>9d5d56afc3f5261062dbb01ed4013130</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ownership_group</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>955d56afc3f5261062dbb01ed4013135</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>published</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>115d56afc3f5261062dbb01ed4013132</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scheduled_publish_date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>9d5d56afc3f5261062dbb01ed4013136</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valid_to</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>115d56afc3f5261062dbb01ed401312f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>confidence</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>9d5d56afc3f5261062dbb01ed4013133</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>governance</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>915d56afc3f5261062dbb01ed4013130</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>995d56afc3f5261062dbb01ed4013134</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>155d56afc3f5261062dbb01ed4013131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>1d5d56afc3f5261062dbb01ed4013135</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>article_type</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>955d56afc3f5261062dbb01ed4013132</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workflow_state</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>155d56afc3f5261062dbb01ed4013137</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>955d56afc3f5261062dbb01ed401312f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>latest_aqi</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>155d56afc3f5261062dbb01ed4013134</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>direct</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>195d56afc3f5261062dbb01ed4013130</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_attachments</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>115d56afc3f5261062dbb01ed4013135</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>995d56afc3f5261062dbb01ed4013131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>915d56afc3f5261062dbb01ed4013136</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>1d5d56afc3f5261062dbb01ed4013132</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>text</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>195d56afc3f5261062dbb01ed401312d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wiki</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>195d56afc3f5261062dbb01ed4013133</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_products</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>9d5d56afc3f5261062dbb01ed401312d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge_form_embedded_queries.xml</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_id>995d56afc3f5261062dbb01ed401312e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Knowledge Form Embedded Queries">fcd2bd32878dc65025f299b73cbb35b4</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="u_kb_template_template_de_artigo_para_reservas_ufpe" sys_domain="global" view="Default view">995d56afc3f5261062dbb01ed401312b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_kb_template_template_de_artigo_para_reservas_ufpe</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 05:06:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>995d56afc3f5261062dbb01ed401312b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_kb_template_template_de_artigo_para_reservas_ufpe</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+            <sys_update_name>sys_ui_section_995d56afc3f5261062dbb01ed401312b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 05:06:00</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

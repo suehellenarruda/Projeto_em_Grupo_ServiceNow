@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="recursos_disponiveis" table="x_1775943_ufpe_espaco_ufpe" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>recursos_disponiveis</element>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:44:18</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>recursos_disponiveis</sys_name>
+            <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+            <sys_update_name>sys_choice_x_1775943_ufpe_espaco_ufpe_recursos_disponiveis</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:44:18</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recursos_disponiveis</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Datashow</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:44:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:46:35</sys_updated_on>
+            <value>datashow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recursos_disponiveis</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sistema de Som</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:44:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:46:33</sys_updated_on>
+            <value>sistema de som</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recursos_disponiveis</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Computador/Notebook</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:44:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:46:37</sys_updated_on>
+            <value>computador/notebook</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recursos_disponiveis</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quadro Branco/Lousa</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:45:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:46:40</sys_updated_on>
+            <value>quadro branco/lousa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recursos_disponiveis</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Acesso à Internet</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:45:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:46:42</sys_updated_on>
+            <value>acesso a internet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recursos_disponiveis</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Montagem Específica</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:45:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:46:44</sys_updated_on>
+            <value>montagem especifica</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

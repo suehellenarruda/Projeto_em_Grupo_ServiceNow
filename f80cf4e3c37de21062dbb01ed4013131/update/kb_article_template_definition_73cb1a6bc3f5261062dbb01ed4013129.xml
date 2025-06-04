@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template_definition">
+    <kb_article_template_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article_template display_value="Template de Artigo para Reservas UFPE">ad9a9eabc3f5261062dbb01ed401318c</article_template>
+        <collapsible/>
+        <column_label>Regras de Uso</column_label>
+        <column_type>string</column_type>
+        <field_style/>
+        <heading_style/>
+        <mandatory>true</mandatory>
+        <order/>
+        <preview_text><![CDATA[<h2>Agendamento e Uso dos Espaços da UFPE (Campus Recife)</h2>
+<p>Para garantir a organização e o bom uso dos espaços da UFPE no Campus Recife, é fundamental seguir algumas regras e políticas. O agendamento e a reserva são feitos através do ServiceNow, e o cumprimento das diretrizes abaixo é essencial para que todos possam desfrutar de um ambiente adequado.</p>
+<h3>Agendamento e Reserva (via ServiceNow)</h3>
+<ul style="list-style-position: inside;"><li>Antecedência: Faça sua reserva com antecedência suficiente para garantir a disponibilidade do espaço desejado. O ServiceNow mostrará os horários e datas disponíveis.</li><li>Informações Completas: Ao agendar, forneça todas as informações solicitadas de forma clara e completa, incluindo o propósito do evento e o número estimado de participantes.</li><li>Confirmação: Verifique sempre a confirmação da sua reserva. Sem a confirmação, o agendamento não é válido.</li><li>Cancelamento: Caso precise cancelar, faça-o o mais rápido possível através do ServiceNow. Isso libera o espaço para outros usuários.</li></ul>
+<h3>Uso dos Espaços</h3>
+<ul style="list-style-position: inside;"><li>Limpeza: Os espaços devem ser devolvidos limpos e organizados. Certifique-se de recolher todo o lixo e dispor os materiais de forma adequada.</li><li>Alimentos e Bebidas: O consumo de alimentos e bebidas é geralmente proibido dentro dos espaços, a menos que haja autorização prévia e expressa para eventos específicos. Verifique as regras de cada local.</li><li>Preservação: Cuide do mobiliário e equipamentos. Qualquer dano deve ser comunicado imediatamente à administração responsável pelo espaço.</li><li>Horário: Respeite rigorosamente o horário de início e término da sua reserva.</li><li>Capacidade: Não exceda a capacidade máxima de pessoas permitida para o espaço reservado.</li><li>Segurança: Mantenha as saídas de emergência desobstruídas e siga as orientações de segurança.</li><li>Responsabilidade: O responsável pelo agendamento é o principal responsável por garantir que todas as regras sejam seguidas durante o período de uso.</li></ul>
+<p>Seguir essas orientações simples contribui para a boa convivência e para a manutenção dos espaços da UFPE em ótimas condições para toda a comunidade acadêmica.</p>]]></preview_text>
+        <sys_class_name>kb_article_template_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-04 05:01:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>73cb1a6bc3f5261062dbb01ed4013129</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Regras de Uso</sys_name>
+        <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+        <sys_update_name>kb_article_template_definition_73cb1a6bc3f5261062dbb01ed4013129</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-04 05:21:55</sys_updated_on>
+        <table_column>x_1775943_ufpe_u_kb_regras_de_uso</table_column>
+    </kb_article_template_definition>
+</record_update>

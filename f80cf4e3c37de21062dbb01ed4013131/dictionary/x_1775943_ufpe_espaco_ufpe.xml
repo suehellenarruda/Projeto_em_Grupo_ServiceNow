@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="10bdf0e3c331261062dbb01ed4013169" label="Espaço UFPE" max_length="40" name="x_1775943_ufpe_espaco_ufpe" type="collection">
+        <element label="Capacidade" max_length="40" name="capacidade" type="integer"/>
+        <element label="Centro Acadêmico" max_length="32" name="centro_academico" reference="cmn_location" type="reference"/>
+        <element display="true" label="Nome do Espaço" max_length="100" name="nome_do_espaco" type="string"/>
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element choice="1" label="Recursos Disponíveis" max_length="4000" name="recursos_disponiveis" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Montagem Específica" sequence="6" value="montagem especifica"/>
+                <element inactive_on_update="false" label="Sistema de Som" sequence="2" value="sistema de som"/>
+                <element inactive_on_update="false" label="Acesso à Internet" sequence="5" value="acesso a internet"/>
+                <element inactive_on_update="false" label="Datashow" sequence="1" value="datashow"/>
+                <element inactive_on_update="false" label="Computador/Notebook" sequence="3" value="computador/notebook"/>
+                <element inactive_on_update="false" label="Quadro Branco/Lousa" sequence="4" value="quadro branco/lousa"/>
+            </choice>
+        </element>
+        <element choice="1" label="Tipo de Espaço" max_length="40" name="tipo_de_espaco" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Sala de Reunião" sequence="3" value="sala de reuniao"/>
+                <element inactive_on_update="false" label="Laboratório de Pesquisa" sequence="3" value="laboratorio de pesquisa"/>
+                <element inactive_on_update="false" label="Sala de Aula" sequence="5" value="sala de aula"/>
+                <element inactive="true" inactive_on_update="true" label="Teatro" sequence="1" value="teatro"/>
+                <element inactive="true" inactive_on_update="true" label="Sala de Aula" sequence="2" value="sala de aula"/>
+                <element inactive_on_update="false" label="Auditório" sequence="2" value="auditorio"/>
+                <element inactive_on_update="false" label="Sala de Reunião" sequence="6" value="sala de reuniao"/>
+                <element inactive_on_update="false" label="Teatro" sequence="2" value="teatro"/>
+                <element inactive_on_update="false" label="Laboratório" sequence="2" value="laboratorio"/>
+                <element inactive="true" inactive_on_update="true" label="Auditório" sequence="0" value="auditorio"/>
+                <element inactive_on_update="false" label="Sala de Estudos" sequence="6" value="sala de estudos"/>
+                <element inactive="true" inactive_on_update="true" label="Sala de Estudos" sequence="4" value="sala de estudos"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="centro_academico"/>
+        </index>
+    </element>
+</database>

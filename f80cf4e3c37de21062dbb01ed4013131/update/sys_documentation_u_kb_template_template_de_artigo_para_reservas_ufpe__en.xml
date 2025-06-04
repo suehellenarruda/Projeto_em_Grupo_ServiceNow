@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Template de Artigo para Reservas UFPE" language="en" table="u_kb_template_template_de_artigo_para_reservas_ufpe">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Template de Artigo para Reservas UFPE</label>
+            <language>en</language>
+            <name>u_kb_template_template_de_artigo_para_reservas_ufpe</name>
+            <plural>Template de Artigo para Reservas UFPEs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-04 04:54:28</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Template de Artigo para Reservas UFPE</sys_name>
+            <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+            <sys_update_name>sys_documentation_u_kb_template_template_de_artigo_para_reservas_ufpe__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-04 04:54:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5a6949a3c371261062dbb01ed40131ca" extends="task" label="Solicitação de Reserva UFPE" max_length="40" name="x_1775943_ufpe_solicitacao_de_reserva_ufpe" type="collection">
+        <element label="Nome/Número do Espaço Específico" max_length="300" name="nome_numero_do_espaco_especifico" type="string"/>
+        <element label="Especificar Tipo de Espaço" max_length="100" name="tipo_de_espaco" type="string"/>
+        <element label="Telefone para Contato" max_length="40" name="telefone_para_contato" type="string"/>
+        <element choice="1" label="Vínculo com a UFPE" max_length="40" name="vinculo_com_a_ufpe" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Docente" sequence="1" value="docente"/>
+                <element inactive_on_update="false" label="Visitante/Externo" sequence="5" value="visitante/externo"/>
+                <element inactive_on_update="false" label="Discente (Graduação)" sequence="3" value="discente (graduacao)"/>
+                <element inactive_on_update="false" label="Discente (Pós-Graduação)" sequence="2" value="discente (pos-graduacao)"/>
+                <element inactive_on_update="false" label="Técnico-Administrativo" sequence="4" value="tecnico-administrativo"/>
+            </choice>
+        </element>
+        <element label="Especificar Finalidade" max_length="300" name="especificar_finalidade" type="string"/>
+        <element choice="1" label="Recursos Adicionais Solicitados" max_length="4000" name="recursos_adicionais_solicitados" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Acesso à Internet Diferenciado" sequence="6" value="acesso a internet diferenciado"/>
+                <element inactive_on_update="false" label="Quadro Branco/Lousa" sequence="4" value="quadro branco/lousa"/>
+                <element inactive_on_update="false" label="Datashow" sequence="1" value="datashow"/>
+                <element inactive_on_update="false" label="Sistema de Som" sequence="2" value="sistema de som"/>
+                <element inactive_on_update="false" label="Computador/Notebook" sequence="3" value="computador/notebook"/>
+                <element inactive_on_update="false" label="Montagem Específica" sequence="5" value="montagem específica"/>
+            </choice>
+        </element>
+        <element label="Horário de Início" max_length="40" name="horario_de_inicio" type="glide_date_time"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aprovada" sequence="2" value="aprovada"/>
+                <element inactive_on_update="false" label="Rejeitada" sequence="3" value="rejeitada"/>
+                <element inactive_on_update="false" label="Em Aprovação" sequence="1" value="em aprovacao"/>
+            </choice>
+        </element>
+        <element choice="1" label="Finalidade da Reserva" mandatory="true" max_length="40" name="finalidade_da_reserva" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Reunião de Trabalho/Pesquisa" sequence="1" value="reuniao de trabalho/pesquisa"/>
+                <element inactive_on_update="false" label="Aula/Seminário/Curso" sequence="2" value="aula/seminario/curso"/>
+                <element inactive_on_update="false" label="Palestra/Workshop" sequence="5" value="palestra/workshop"/>
+                <element inactive_on_update="false" label="Atividade de Extensão" sequence="6" value="atividade de extensao"/>
+                <element inactive_on_update="false" label="Defesa Acadêmica" sequence="3" value="defesa academica"/>
+                <element inactive_on_update="false" label="Estudo Individual/Grupo" sequence="7" value="estudo individual/grupo"/>
+                <element inactive_on_update="false" label="Evento Acadêmico/Científico" sequence="4" value="evento academico/cientifico"/>
+            </choice>
+        </element>
+        <element label="Título/Nome do Evento" max_length="200" name="titulo_nome_do_evento" type="string"/>
+        <element label="Observações" max_length="400" name="observacoes" type="string"/>
+        <element label="Espaço Solicitado" max_length="32" name="espaco_solicitado" reference="x_1775943_ufpe_espaco_ufpe" type="reference"/>
+        <element label="Data da Reserva" max_length="40" name="data_da_reserva" type="glide_date"/>
+        <element label="Horário de Término" max_length="40" name="horario_de_termino" type="glide_date_time"/>
+        <element label="Número Estimado de Participantes" max_length="40" name="numero_estimado_de_participantes" type="string"/>
+        <element label=" E-mail Institucional" max_length="100" name="email_institucional" type="string"/>
+    </element>
+</database>

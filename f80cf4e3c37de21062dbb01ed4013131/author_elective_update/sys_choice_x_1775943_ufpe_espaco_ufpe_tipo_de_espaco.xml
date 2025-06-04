@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="tipo_de_espaco" table="x_1775943_ufpe_espaco_ufpe" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>tipo_de_espaco</element>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:17:08</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tipo_de_espaco</sys_name>
+            <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+            <sys_update_name>sys_choice_x_1775943_ufpe_espaco_ufpe_tipo_de_espaco</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:17:08</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Auditório</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:17:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:56:42</sys_updated_on>
+            <value>auditorio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Teatro</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:35:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:56:42</sys_updated_on>
+            <value>teatro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Auditório</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:35:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:38:08</sys_updated_on>
+            <value>auditorio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laboratório</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:56:42</sys_updated_on>
+            <value>laboratorio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Sala de Aula</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:18:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:56:42</sys_updated_on>
+            <value>sala de aula</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teatro</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:21:19</sys_updated_on>
+            <value>teatro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laboratório de Pesquisa</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:18:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:21:21</sys_updated_on>
+            <value>laboratorio de pesquisa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Sala de Reunião</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:36:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:56:42</sys_updated_on>
+            <value>sala de reuniao</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Sala de Estudos</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:56:42</sys_updated_on>
+            <value>sala de estudos</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sala de Aula</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:38:17</sys_updated_on>
+            <value>sala de aula</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sala de Estudos</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:38:21</sys_updated_on>
+            <value>sala de estudos</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipo_de_espaco</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sala de Reunião</label>
+            <language>en</language>
+            <name>x_1775943_ufpe_espaco_ufpe</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-03 22:19:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-03 22:21:28</sys_updated_on>
+            <value>sala de reuniao</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Template de Artigo para Reservas UFPE</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Template de Artigo para Reservas UFPE</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Article Template Selector" name="Article Template Selector">446e65e30b0003003c328ffe15673a81</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-04 04:54:28</sys_created_on>
+        <sys_id>60ba12ebc3f5261062dbb01ed40131dd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Template de Artigo para Reservas UFPE</sys_name>
+        <sys_package display_value="UFPE" source="x_1775943_ufpe">f80cf4e3c37de21062dbb01ed4013131</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UFPE">f80cf4e3c37de21062dbb01ed4013131</sys_scope>
+        <sys_update_name>sys_wizard_answer_60ba12ebc3f5261062dbb01ed40131dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-04 04:54:28</sys_updated_on>
+        <table/>
+        <target_url>u_kb_template_template_de_artigo_para_reservas_ufpe.do</target_url>
+        <type>Answer</type>
+    </sys_wizard_answer>
+</record_update>
